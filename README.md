@@ -11,7 +11,9 @@
     * Output data:
       * probability of success in percentage to sell compuer. Where Low is 0-40%, Average - 30-70% and High - 65-100% 
       ![alt text](https://i.ibb.co/FbbJwsW/fuzzy.png)<br>
-3. Test 
+3. Rules<br>
+  ![alt text](https://i.ibb.co/sHCXNpC/image.png)<br>
+4. Test 
     * Input
       * Price: 250
       * Speed: 8
